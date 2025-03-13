@@ -11,7 +11,7 @@ Bienvenue sur **ANGE**, la branche de développement officielle d'**ArkaniaStudi
 ## 🔥 Technologies Utilisées  
 Nous utilisons des technologies modernes et adaptées aux besoins de nos projets :  
 - **Langages** : PHP, JavaScript, TypeScript, Python  
-- **Frameworks** : Laravel, Electron, Vue.js  
+- **Frameworks** : Laravel, Electron, React.js  
 - **Bases de données** : MySQL, PostgreSQL  
 - **Infrastructure** : Docker, Kubernetes  
 - **Outils DevOps** : GitHub Actions, CI/CD  
