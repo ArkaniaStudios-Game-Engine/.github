@@ -1,2 +1,2 @@
 > [!TIP]
-> Nous recherchons actuellement des développeurs.
+> We are currently looking for developers and designer.
